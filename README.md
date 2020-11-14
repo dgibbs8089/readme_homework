@@ -1,8 +1,6 @@
 # Readme Generator
     ## Description
 
-    *The what, why, and how:*
-
     This is an application that will supply you with a good readme page after prompting you with different questions required to build
  the page.
     ## Table of Contents
