@@ -1,10 +1,4 @@
 # Readme Generator
-    ![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/dgibbs8089/readme_homework?style=flat&logo=appve
-yor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/dgibbs8089/readme_homework?style=flat&logo=appveyor)
-
-    Check out the badges hosted by [shields.io](https://shields.io/).
-
-
     ## Description
 
     *The what, why, and how:*
