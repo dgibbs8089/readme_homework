@@ -1,33 +1,33 @@
 # Readme Generator
-    ## Description
+## Description
 
     This is an application that will supply you with a good readme page after prompting you with different questions required to build
  the page.
-    ## Table of Contents
+## Table of Contents
     * [Installation](#installation)
     * [Usage](#usage)
     * [License](#license)
 
-    ## Installation
+## Installation
 
     *Steps required to install project and how to get the development environment running:*
 
     To install the application run 'npm install' from your command line and then run 'node index.js'.
 
-    ## Usage
+## Usage
 
     *Instructions and examples for use:*
 
     When you run 'node index.js' you will begin to be prompted with questions that will fill in all the blanks required to build your
 page.
 
-    ## License
+## License
 
     MIT License
 
     ---
 
-    ## Questions?
+## Questions?
 
     ![Developer Profile Picture](https://avatars3.githubusercontent.com/u/69257164?v=4)
 
